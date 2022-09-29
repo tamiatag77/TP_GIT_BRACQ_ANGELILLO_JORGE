@@ -17,16 +17,18 @@ Le but de ce TP est d'utiliser Git pour collaborer à plusieurs avec différents
 ## Memo Script 1
 Aucune blibliothèque nécessaire à télécharger.
 Il retournera l'ensemble des nombres premiers lors de son execution.
-
+Commande pour lancer le script : python3 script1.py
 
 ## Memo Script 2
 Aucune blibliothèque nécessaire à télécharger.
 Le script 2 créera un dossier "clone" dans le répertoire courant.
 Ensuite, il clonera le repository https://github.com/KeligMartin/4-SRC.git dans ce dossier.
+Commande pour lancer le script : python3 script2.py
 
 # Memo Script 3
 Aucune blibliothèque nécessaire à télécharger.
 Le script 3 demandera le rayon du disque. Celui-ci retournera l'aire du disque.
+Commande pour lancer le script : python3 script3.py
 
 ## WorkFlow
 
