@@ -32,8 +32,8 @@ Le script 3 demandera le rayon du disque. Celui-ci retournera l'aire du disque.
 
 Nous avons choisi le workflow : Feature branch + merge request , pour les raisons suivantes :
 
-	- Nous pouvons valider chaque étape depuis github afin de vérifier les commit des membres du groupe 
-	- La feature branch permet de créer diverses branches pour chaque étape du projet notamment avec une branche hotfix
-	- La branche basic flow n'était pas adapté car nous sommes 3 personnes sur ce projet
-	- Un visuel ergonomique pour tous les membres du groupe sur github
-	- Ceci va améliorer la sécurité générale du projet
+ - Nous pouvons valider chaque étape depuis github afin de vérifier les commit des membres du groupe 
+ - La feature branch permet de créer diverses branches pour chaque étape du projet notamment avec une branche hotfix
+ - La branche basic flow n'était pas adapté car nous sommes 3 personnes sur ce projet
+ - Un visuel ergonomique pour tous les membres du groupe sur github
+ - Ceci va améliorer la sécurité générale du projet
