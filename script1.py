@@ -2,7 +2,7 @@
 
 #Les variables à initialiser 
 min = 1
-max = 100000
+max = 1000000
 
 #Boucle qui permettant de ressortir les nombres premiers de 1 à 100 000
 for n in range(min,max + 1):
