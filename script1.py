@@ -15,4 +15,4 @@ for n in range(min,max + 1):
                break
        else:
 #Affiche le nombre premier
-           print(n)
+           print("Nombre premier :",n)
